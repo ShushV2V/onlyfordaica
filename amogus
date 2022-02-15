@@ -1,0 +1,13 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
+local Window = Library.CreateLib("Qua Ghe Gom Va Day La Vu Florentino", "DarkTheme")
+
+local Tab = Window:NewTab("Loli")
+local Section = Tab:NewSection("duma dai ca sus qua ;-;")
+
+Section:NewButton("dich chuyen den Place Talent", "ButtonInfo", function()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1674.9128417969, -182.81991577148, 333.94821166992)
+end)
+
+Section:NewButton("dich chuyen den Craft Shiny", "ButtonInfo", function()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1648.2712402344, -182.44485473633, 2314.8876953125)
+end)
