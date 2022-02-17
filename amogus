@@ -11,3 +11,20 @@ end)
 Section:NewButton("dich chuyen den Craft Shiny", "ButtonInfo", function()
    game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1648.2712402344, -182.44485473633, 2314.8876953125)
 end)
+
+Section:NewButton("dich chuyen den Time trial shop", "ButtonInfo", function()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3830.0432128906, -186.45040893555, 921.49859619141)
+end)
+
+Section:NewButton("dich chuyen den Incubator 1", "ButtonInfo", function()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-3087.9604492188, -183.77445983887, -976.39739990234)
+end)
+
+Section:NewButton("dich chuyen den Incubator 2", "ButtonInfo", function()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(1122.1033935547, -183.03608703613, 4363.6708984375)
+end)
+
+
+Section:NewButton("dich chuyen den Incubator 3", "ButtonInfo", function()
+   game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(-5134.5014648438, -184.6731262207, -4619.8125)
+end)
